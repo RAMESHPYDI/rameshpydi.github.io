@@ -1,5 +1,3 @@
-# Ramesh Pydi
-
 ## AI, Data & Microsoft Fabric
 
 Welcome to my technical blog.
